@@ -1,0 +1,9 @@
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\bin\Debug\netstandard2.0\RazorPagesTest.Models.deps.json
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\bin\Debug\netstandard2.0\RazorPagesTest.Models.dll
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\bin\Debug\netstandard2.0\RazorPagesTest.Models.pdb
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\obj\Debug\netstandard2.0\RazorPagesTest.Models.csprojAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\obj\Debug\netstandard2.0\RazorPagesTest.Models.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\obj\Debug\netstandard2.0\RazorPagesTest.Models.AssemblyInfo.cs
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\obj\Debug\netstandard2.0\RazorPagesTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\obj\Debug\netstandard2.0\RazorPagesTest.Models.dll
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Models\obj\Debug\netstandard2.0\RazorPagesTest.Models.pdb

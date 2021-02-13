@@ -1,0 +1,12 @@
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\bin\Debug\netstandard2.0\RazorPagesTest.Services.deps.json
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\bin\Debug\netstandard2.0\RazorPagesTest.Services.dll
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\bin\Debug\netstandard2.0\RazorPagesTest.Services.pdb
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\bin\Debug\netstandard2.0\RazorPagesTest.Models.dll
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\bin\Debug\netstandard2.0\RazorPagesTest.Models.pdb
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.csprojAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.AssemblyInfo.cs
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.csproj.CopyComplete
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.dll
+C:\Users\Evgeniy\source\repos\RasorPagesTest\RazorPagesTest.Services\obj\Debug\netstandard2.0\RazorPagesTest.Services.pdb
